@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jtyj-github
-
-- 👀 I’m interested in developing my skills as a fullstack developer!
 - 🌱 Check out some of my open source projects!
 
 <!---
